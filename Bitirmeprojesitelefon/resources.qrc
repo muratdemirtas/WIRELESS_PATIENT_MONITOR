@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resources/logo.png</file>
+        <file>resources/ses.wav</file>
+        <file>resources/kalp.png</file>
+        <file>resources/oksijen.png</file>
+        <file>resources/derece.png</file>
+        <file>resources/nem.png</file>
+    </qresource>
+</RCC>
